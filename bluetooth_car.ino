@@ -1,8 +1,3 @@
-/* 
- *  Written by Rupak Poddar
- *  www.youtube.com/RupakPoddar
- *  www.github.com/RupakPoddar
-*/
 
 #include<SoftwareSerial.h>
 #define LED 13              // Connect light to pin 13 (Optional)
